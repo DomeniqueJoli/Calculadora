@@ -1,0 +1,15 @@
+﻿<Window x:Class="Calculadora.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculadora"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="587">
+    <Grid Background="#FFFFEEEE">
+        <Label Content="Calculadora" HorizontalAlignment="Center" Margin="0,108,0,0" VerticalAlignment="Top" FontSize="72" FontFamily="Bahnschrift Light Condensed"/>
+        <Button x:Name="btIniciar" Content="Iniciar" HorizontalAlignment="Center" Margin="0,252,0,0" VerticalAlignment="Top" Click="btIniciar_Click" Height="54" Width="218" Background="#FFF5BFBF" FontSize="36" FontFamily="Bahnschrift Light Condensed"/>
+        <Image Height="100" Width="100"/>
+
+    </Grid>
+</Window>
