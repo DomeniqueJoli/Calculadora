@@ -2,6 +2,4 @@
 
 Atividade Componentes WPF
 
-Alunas: 
-Domenique Joli de Souza Salles Peixoto
-Emanuele Karine Oliveira Castro
+Alunas: Domenique Joli de Souza Salles Peixoto e Emanuele Karine Oliveira Castro
